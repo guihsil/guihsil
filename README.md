@@ -5,6 +5,8 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guihsil&show_icons=true&theme=dracula)
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guihsil&theme=dracula)
+
 ## Tecnologias
 
 <div align="left">
