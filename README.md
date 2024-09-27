@@ -1,4 +1,4 @@
-# Olá! Eu sou o Guilherme Oliveira 👋
+# Olá! Eu sou Guilherme Oliveira 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/guilherme-oliveira-011135197)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gwilliamki/)
