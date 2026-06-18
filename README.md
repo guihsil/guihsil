@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Guilherme Oliveira</h1>
-<h3 align="center">A guy who's discovering a passion for coding.</h3>
+# Olá, mundo! 👋
 
-- 🌱 I’m currently learning **Data Analisys, Python, Web Development**
+Sou um estudante do **IFCE** em constante evolução, focado em desenvolvimento web e com os olhos bem abertos para a área de dados. Gosto de entender como as coisas funcionam por trás dos panos, o que me leva a explorar desde a criação de APIs até a configuração da minha própria infraestrutura.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 💻 O que ando construindo e estudando
+
+*   **Desenvolvimento:** Criando lógicas próprias no back-end utilizando **Python** (FastAPI, Django) e **JavaScript/TypeScript** (Node.js).
+*   **Banco de Dados:** Estruturando e gerenciando dados com **PostgreSQL**, **MariaDB** e **SQL**.
+*   **Infra & Self-Hosting:** Adoro brincar com servidores locais. Uso bastante **Docker** para hospedar meus próprios serviços.
+*   **IA Local:** Experimentando com modelos locais usando **Ollama** e Open WebUI.
+
+---
+
+### 🛠️ Minhas Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,sqlite,typescript,javascript,html,css)](https://skillicons.dev)
+
+---
+
+### 🕹️ Além do código
+
+Quando não estou codando ou configurando redes em casa, você provavelmente vai me encontrar:
+*   Jogando clássicos em emuladores.
+*   Ouvindo música boa: seja um R&B, um MPB ou um POP-Rock para animar o dia.
+
+---
