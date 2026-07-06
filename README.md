@@ -7,7 +7,7 @@ Sou um estudante do **IFCE** em constante evolução, focado em desenvolvimento 
 ### 💻 O que ando construindo e estudando
 
 *   **Desenvolvimento:** Criando lógicas próprias no back-end utilizando **Python** (FastAPI, Django) e **JavaScript/TypeScript** (Node.js).
-*   **Banco de Dados:** Estruturando e gerenciando dados com **PostgreSQL**, **MariaDB** e **SQL**.
+*   **Banco de Dados:** Estruturando e gerenciando dados com **PostgreSQL**, **MariaDB** e **MySQL**.
 *   **Infra & Self-Hosting:** Adoro brincar com servidores locais. Uso bastante **Docker** para hospedar meus próprios serviços.
 *   **IA Local:** Experimentando com modelos locais usando **Ollama** e Open WebUI.
 
